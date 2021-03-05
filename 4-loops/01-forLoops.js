@@ -3,15 +3,15 @@ NOTE -
 LOOPS:
     - offer us a quick and easy way to do something repeatedly 
     
-    - there are many different kigd of loops, but they all essentially do the same thing: repeat until a specified condition evaluates to false
+    - there are many different kinds of loops, but they all essentially do the same thing: repeat until a specified condition evaluates to false
         - for loops
         - while loops
         - do while loops
-        - labeled loops ( also reffered to as lebeled statement)
-        - break loops ( also reffered to as break statement)
+        - labeled loops ( also referred to as labeled statement)
+        - break loops ( also referred to as break statement)
         -continue loops
 
-    note: there is a danger of infinte loops
+    note: there is a danger of infinite loops
 
     -for loops take in 3 parameters (parameters are separated by a semi colon)
         1. initial expression (initialized variable)
